@@ -1,0 +1,15 @@
+
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Pier Gestão - Teste Android</title>
+  <link rel="manifest" href="./manifest.json">
+  <meta name="theme-color" content="#17324d">
+</head>
+<body>
+  <h1>Pier Gestão</h1>
+  <p>Ambiente de testes de instalação Android.</p>
+</body>
+</html>
